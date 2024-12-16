@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>
+Muhammed Hafiz
+</title>
+</head>
+<body bgcolor="#5CB3FF">
+<center><img src="haf.png" width="350" height="350"></center>
+   <center><h1>Mohamad Hafiz</h1></center>
+    <p><center><p>Mohamad Hafiz, Gazi Antep İslam Üniversitesi'nde Elektrik ve Elektronik Mühendisliği öğrencisiyim.</p>
+        <p>20 yaşındayım.</p>
+        <p>Suriye'de, Halep'in köylerinde Mare adlı birinde doğdum.</p>
+        <p>Okumak ile kuyumcu çalışıyorum.</p>
+        <p>TOBB İMAMHATİP ANADOLU LİSESİ'nden mezunum.</p>
+        <p>Dersler arasında en çok matematik, fizik ve programlamayı seviyorum.</p></center>
+<hr>
+<ul>
+    <h2>EN SEVDİĞİM DERSLER</h2>
+        <li><a href="FİZİK.html">FİZİK</a></li>
+
+
+        <li><a href="MATEMATİK.html">MATEMATİK</a></li>
+
+
+        <li><a href="bilisim.html">PROGRAMLAMA</a></li>
+        
+    </ul>
+<hr>
+<ol>
+<h2>HOPİLERİM</h2>
+<li><a href="futbol.html">FUTBOL</a></li>
+<li><a href="yuzme.html">şiir yazmak</a></li>
+<li><a href="satranc.html">resim çizmek</a></li>
+
+</ol>
+<hr>
+<a href="https://www.instagram.com/_mohamad_yahya/profilecard/?igsh=d3JnN2sycTJrYnlw">INSTAGRAM</a href>
+<a href="https://www.facebook.com/33mohamadyahya?mibextid=ZbWKwL">FACEBOK</a href>
+<a href="https://wa.me/qr/XCXZBLVG7QZ7J1">WHATSSAPP</a href>
+<marquee>HOŞGELDİNİZ</marquee>
+</body> 
+</html>
